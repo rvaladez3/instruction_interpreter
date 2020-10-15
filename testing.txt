@@ -1,0 +1,5 @@
+Our methods of testing first consisted of individually printing out every instruction that runs for each function which include decode, etc. This also inlcuded
+making sure that our values were being updated when needed and in the proper format. After completing the required functions we also began to test the sample.dump file
+via the ./sim sample.dump and comparing our output to the sample.output. Following that procedure we went on and tested our own sample.dump in sample2 which 
+basically testing some our functions such as addiu, lui, ori, etc. To finish testing the rest of our tests we also tested with q, i, and the rest of the 
+interactive commands.
